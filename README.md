@@ -1,17 +1,17 @@
-eCommarce_project_Node.js_JavaScript
+# eCommarce_project_Node.js_JavaScript
 
 eCommarce_project_Node.js_JavaScript is a full-featured eCommerce application built using Node.js and JavaScript. The project provides essential eCommerce functionalities, including product management, user authentication, and order processing.
 
-Features
+# Features
 Product Management: Add, update, and delete product listings.
 User Authentication: Secure user login and registration.
 Order Processing: Manage and track customer orders.
 Scalable Design: Built to handle a growing number of users and products.
-Prerequisites
+# Prerequisites
 Node.js (version X.X or higher)
 npm (Node Package Manager)
 MongoDB or another compatible database
-Getting Started
+# Getting Started
 Clone the Repository
 
 bash
@@ -36,7 +36,7 @@ Access the Application
 
 Open your web browser and go to http://localhost:3000 to start using the application.
 
-Usage
+# Usage
 Manage Products: Use the admin interface to manage product listings.
 User Actions: Register, log in, and browse products.
 Place Orders: Add items to the cart and complete the checkout process.
