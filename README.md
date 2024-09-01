@@ -1,4 +1,4 @@
-# eCommarce_project_Node.js_JavaScript
+# eCommerce _project_Node.js_JavaScript
 
 eCommarce_project_Node.js_JavaScript is a full-featured eCommerce application built using Node.js and JavaScript. The project provides essential eCommerce functionalities, including product management, user authentication, and order processing.
 
